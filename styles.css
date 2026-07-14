@@ -2,7 +2,10 @@ body {
     background-color: darkgoldenrod;
 }
 
+h1{
+    text-align: center;
+}
 p{
     background-color: aliceblue;
-    text-align: center;
+    text-align: justify;
 }
