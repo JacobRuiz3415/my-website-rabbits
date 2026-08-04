@@ -1,5 +1,5 @@
-console.log("Hello")
+console.log("Hello user")
 
 function showAlert(){
-    alert("yes");
+    alert("yes, thank you");
 }

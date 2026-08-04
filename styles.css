@@ -1,5 +1,6 @@
 body {
     background-color: darkgoldenrod;
+    padding: 20px;
     font-family: fantasy;
 }
 
@@ -9,4 +10,9 @@ h1{
 p{
     background-color: aliceblue;
     text-align: justify;
+}
+
+ul{
+    list-style-type: disc;
+    background-color: white;
 }
